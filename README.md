@@ -1,8 +1,8 @@
 <h1 align="center">
     <img
         src="https://assets.dio.me/7U-RoOeuFelNUr6cfcclzZguhViVCRThzddZl6NTX60/f:webp/h:120/q:80/L3RyYWNrcy9iNjI1MTQ0Ny1hOWY1LTRjZGUtYmVlZC1iMzRlMzBkMmI0OTgucG5n"
-        width="30%"
-        height="50%"
+        width="20%"
+        height="30%"
     />
     <br />
     * Desafios de Projeto *
